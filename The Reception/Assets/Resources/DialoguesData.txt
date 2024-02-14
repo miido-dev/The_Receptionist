@@ -1,0 +1,678 @@
+{
+ "DialogueDataList": [
+  {
+      "Dialogue": "Are there any urgent messages for me?",
+      "Options": [
+        "Let me check the messages promptly for you.",
+        "I will require some time to check but you will get it on time",
+        "Messages? Provide the details, and I'll handle it efficiently."
+      ],
+      "Reactions": [
+        "Efficient handling of messages is appreciated. It shows dedication.",
+        "You've heard the word urgent right? please hurry.",
+        "I've been working here for years and you don't even know which ones are my messages?"
+      ],
+      "Greatness": [2, 1, 0]
+    },
+    {
+          "Dialogue": "Umm... by the way, is that dispenser single?",
+          "Options": [
+            "... wait... what?",
+            "Yeah, it's a loner dispenser. Very picky about water, you know?",
+            "Why are you hitting on a water dispenser?"
+          ],
+          "Reactions": [
+            "haha, *nervous laugh* I-I-I got you!",
+            "Nice! So I've got a chance.",
+            "What's it to you, you should try to mind your own business. "
+          ],
+          "Greatness": [0, 2, 1]
+    },
+    {
+        "Dialogue": "Do you think the walls have ears?",
+        "Options": [
+            "No, the walls are not eavesdropping. It's safe to talk.",
+            "If they do, they must have some fantastic stories.",
+            "Why? Are you planning to tell them something secret?"
+        ],
+        "Reactions": [
+            "Phew, that's a load of my chest!",
+            "No they don't. Why would you assume they have any stories, I am clean as a whistle.",
+            "No! I want them to stop looking at me when I am sleeping."
+        ],
+        "Greatness": [2, 0, 1]
+    },
+{
+      "Dialogue": "What's your take on pineapple pizza?",
+      "Options": [
+          "It's a matter of personal preference. Some love it, some don't.",
+          "Ah, the eternal debate. Pineapple on pizza is a crime!",
+          "It's plain disgusting."
+      ],
+      "Reactions": [
+          "I respect your nice attitude towards this issue.",
+          "I know right? dumb pizza should never fruits on them.",
+          "You're disgusting."
+      ],
+      "Greatness": [0, 2, 1]
+  },
+{
+    "Dialogue": "I'm having trouble filling out these forms. Can you assist me?",
+    "Options": [
+        "Certainly, Let me do it for you.",
+        "Filling out forms can be tricky. I'll walk you through each step. Ready?",
+        "Do it yourself, you should be self sufficient."
+    ],
+    "Reactions": [
+        "Thanks for your help!",
+        "Your guidance made this process much easier. Thank you!",
+        "Good advice, but you are an extremely rude person."
+    ],
+    "Greatness": [1, 2, 0]
+},
+{
+    "Dialogue": "Can you recommend a good spot to stargaze in the office?",
+    "Options": [
+        "Stargaze in the office? That's not a thing, my friend.",
+        "You're not planning an office camping trip, are you?",
+        "Why would you want to stargaze in an office?"
+    ],
+    "Reactions": [
+        "Who made you the king of StArGazing?!? Hmph!",
+        "Why are you gonna tell on me?",
+        "It's always fun to explore an uncharted territory."
+    ],
+    "Greatness": [1, 0, 2]
+},
+{
+  "Dialogue": "Do you believe in time travel, and if so, have you ever tried it?",
+  "Options": [
+    "Time travel? That's a fascinating concept, but no, it's not a reality.",
+    "You're asking the wrong person. My DeLorean is in the shop.",
+    "If time travel existed, do you think I'd be working here?"
+  ],
+  "Reactions": [
+    "Not a reality? you mean not yet? right?",
+    "Nice answer wise guy.",
+    "Okay okay, no need for conflict, take a chill pill."
+  ],
+    "Greatness": [1, 2, 0]
+},
+  {
+    "Dialogue": "I'm conducting a survey. Do you prefer socks with or without holes?",
+    "Options": [
+      "Without holes is generally the preferred choice for socks.",
+      "You might want to rethink your survey questions. Holes are not ideal.",
+      "Why would anyone want socks with holes?"
+    ],
+    "Reactions": [
+      "yeah, no shit.",
+      "Holes in socks provide ventilation, how about ideal now?",
+      "Just a thought, we never take the time to think about socks!"
+    ],
+      "Greatness": [1, 0, 2]
+  },
+  {
+    "Dialogue": "What's your favorite conspiracy theory?",
+    "Options": [
+      "I don't really have a favorite. They're all a bit out there.",
+      "The one about aliens running a secret pizza joint is my favorite.",
+      "Conspiracy theories? I stick to reality, thank you."
+    ],
+    "Reactions": [
+      "That's true.",
+      "Aliens and pizza? Now that's a wild imagination! Tell me more.",
+      "... isn't reality one big conspiracy? think about it."
+    ],
+      "Greatness": [0, 2, 1]
+  },
+  {
+      "Dialogue": "What's your favorite color?",
+      "Options": [
+          "That's an interesting question! I'd say blue.",
+          "I am color blind,so .... yeah.",
+          "Black, like the color of your heart."
+      ],
+      "Reactions": [
+          "I feel blue most of the time. *sad*",
+          "Way to be a downer bud.",
+          "You sound like my mother!"
+      ],
+      "Greatness": [1, 0, 2]
+  },
+  {
+      "Dialogue": "My computer is acting up. Can you help fix it?",
+      "Options": [
+          "Do I look like an IT guy?",
+          "Computer troubles can be frustrating. I'll do my best to assist you. What's the problem?",
+          "I'll call an IT Guy for you."
+      ],
+      "Reactions": [
+          "No, but can you call one instead of being such a negative person?",
+          "Call and IT guy, God do I need to do you job?",
+          "Thanks but do it fast, I don't have all day."
+      ],
+      "Greatness": [0, 1, 2]
+  },
+  {
+    "Dialogue": "What if our reflections are actually leading secret lives?",
+    "Options": [
+      "Our reflections are just a reflection of ourselves. Nothing more.",
+      "If my reflection has a secret life, I hope it's doing something exciting.",
+      "Why would our reflections need secret lives?"
+    ],
+    "Reactions": [
+      "That's true but try to increase your imagination for once.",
+      "Yeah, I hope so too.",
+      "Because... why not stop being... you!."
+    ],
+      "Greatness": [1, 2, 0]
+  },
+  {
+    "Dialogue": "If animals could talk, which one do you think would be the most talkative?",
+    "Options": [
+      "I bet it would be the gossiping parrots, always chirping about who's dating who in the animal kingdom!",
+      "Squirrels would be the chatterboxes. Just imagine them sharing nutty anecdotes all day long!",
+      "The extroverted dolphins, they'd be organizing underwater stand-up comedy shows and telling fishy jokes to lighten the oceanic mood!"
+    ],
+    "Reactions": [
+      "Haha, those gossiping parrots would turn the jungle into a feathered reality show! Love the imagination!",
+      "Seriously? Squirrels as chatterboxes? That's nuts! Can we get a more sensible answer, please?",
+      "Dolphins organizing comedy shows? That's just plain silly. Stick to the real world, please!"
+    ],
+      "Greatness": [2, 1, 0]
+
+  },
+  {
+    "Dialogue": "What's your strategy for surviving a zombie apocalypse?",
+    "Options": [
+      "I plan to outsmart the zombies by pretending to be one of them. You know, a high-functioning member of the undead community!",
+      "Surviving a zombie apocalypse? I don't need a strategy; I'll just hire a zombie butler to do all the dirty work while I sip my tea in peace.",
+      "I'll challenge the zombies to a dance-off. If they can't keep up, they'll be too embarrassed to eat me!"
+    ],
+    "Reactions": [
+      "Haha, blending in with the zombies? That's some next-level stealth mode! I like your creative approach!",
+      "Come on, a zombie butler? That's just ridiculous! We need serious plans, not fantasy nonsense!",
+      "A dance-off with zombies? Are you for real? That's the silliest idea I've ever heard. We need practical plans, not dance parties!"
+    ],
+      "Greatness":  [2, 1, 0] 
+
+  },
+{
+  "Dialogue": "Have you ever thought about the meaning of life?",
+  "Options": [
+    "Yes, I have. Turns out, the meaning of life is just a really complicated Wi-Fi password that nobody remembers.",
+    "The meaning of life is to find the perfect pizza topping. Once you've found it, everything falls into place.",
+    "Why bother thinking about the meaning of life? It's all just a cosmic joke, and I'm not in the mood for philosophical pranks."
+  ],
+  "Reactions": [
+    "Haha, a Wi-Fi password as the meaning of life? That's clever and hilarious! I love your sense of humor!",
+    "Seriously? Pizza toppings as the meaning of life? That's just absurd. Let's get serious about existential questions!",
+    "Come on, a cosmic joke? We need some real introspection, not dismissive attitudes! Life is serious business!"
+  ],
+  "Greatness":  [2, 0, 1] 
+},
+{
+  "Dialogue": "Do you believe in ghosts?",
+  "Options": [
+    "Of course, I believe in ghosts! In fact, I'm planning to invite one to my next dinner party. They must love pizza, right?",
+    "Ghosts? Don't waste my time with such nonsense. I'm too busy dealing with real-life problems to entertain ghost stories.",
+    "Believe in ghosts? I can barely believe in my Wi-Fi signal half the time! Ghosts will have to send a friend request first."
+  ],
+  "Reactions": [
+    "Inviting ghosts to dinner parties? That's just silly. Let's approach the topic with a bit more seriousness, shall we?",
+    "Fair enough. Ghosts are more of a folklore thing.",
+    "Haha, a friend request from ghosts? That's a witty take! Love the humor in navigating the supernatural through social media!"
+  ],
+  "Greatness":  [0, 1, 2] 
+},
+{
+    "Dialogue": "I'm new here. Can you provide some information about the facilities?",
+    "Options": [
+        "Certainly! Welcome! Our facilities include a state-of-the-art gym, a cozy common area with free Wi-Fi, and a 24/7 coffee bar. Feel free to explore and make yourself at home!",
+        "Ugh, fine. Facilities are over there, just figure it out. Why do newbies always need a tour? Just go, and don't bother me.",
+        "Oh, absolutely! Our facilities are top-notch. We have invisible treadmills, a teleportation chamber, and an invisible swimming pool. Enjoy your stay!"
+    ],
+    "Reactions": [
+        "Thanks for the warm welcome and detailed info! The coffee bar is already calling my name. Great start!",
+        "Well, someone's having a bad day! A bit rude, but I guess I'll try to find my way around. Not the friendliest welcome.",
+        "Invisible treadmills and teleportation? You got me for a second there! Nice touch of humor in your response!"
+    ],
+  "Greatness":  [2, 0, 1] 
+},
+{
+  "Dialogue": "What's the weirdest thing you've ever eaten?",
+  "Options": [
+    "I once tried exotic cuisine during my travels. It was an adventure!",
+    "I stick to familiar foods. Weird eats aren't my thing.",
+    "Food is food. I don't bother with weird stuff."
+  ],
+  "Reactions": [
+    "Exploring diverse cuisines is a fantastic experience!",
+    "You're missing out on some unique flavors!",
+    "You are no fun."
+  ],
+  "Greatness":  [2, 0, 1] 
+},
+{
+  "Dialogue": "What's the best piece of advice you've ever received?",
+  "Options": [
+    "The best advice I got was to embrace change and learn from it.",
+    "Advice? I don't really pay attention to what others say.",
+    "Why dwell on advice? Life's about making your own choices."
+  ],
+  "Reactions": [
+    "Solid advice! Learning and growing is key.",
+    "It's good to be independent-minded, but sometimes advice is valuable.",
+    "True, we all carve our own paths in life."
+  ],
+  "Greatness":  [1, 0, 2] 
+},
+{
+  "Dialogue": "Do you have any exciting plans for the weekend?",
+  "Options": [
+    "I'm planning a hiking trip! Nature is calling.",
+    "Weekends are for relaxation. No big plans for me.",
+    "Weekend plans? I haven't really thought about it."
+  ],
+  "Reactions": [
+    "Sounds like a fantastic weekend ahead! Enjoy your hike.",
+    "Relaxing weekends are great too. Any favorite activities?",
+    "Sometimes spontaneous weekends are the best. Anything on your mind?"
+  ],
+  "Greatness":  [1,2,0] 
+},
+{
+  "Dialogue": "Have you ever tried talking to plants to help them grow?",
+  "Options": [
+    "Yes, I have! Talking to plants can have a positive impact. It's not about the words but the carbon dioxide we exhale, which they absorb. Science backs it up!",
+    "Oh, absolutely! I tell them thrilling stories about plant growth charts and the exciting world of fertilizers. Really riveting stuff.",
+    "Of course! I have full-blown conversations with them. I even play them my favorite tunes. My plants are the best listeners in the neighborhood!"
+  ],
+  "Reactions": [
+    "Interesting! I've heard about that. Maybe I'll give it a try and see if my plants appreciate a good conversation.",
+    "Haha, I can imagine those plants being on the edge of their leaves! A bit of humor makes gardening more fun.",
+    "Talking and music for plants? That sounds like a fun garden! I might need to adopt your strategy for my indoor plants."
+  ],
+  "Greatness":  [1,2,0] 
+},
+{
+  "Dialogue": "What's your take on the possibility of time travel?",
+  "Options": [
+    "I'm all for it! Imagine the adventures, revisiting historical events, and correcting embarrassing moments. Time travel would be the ultimate thrill!",
+    "Time travel? Sounds like science fiction to me. The butterfly effect, paradoxes, and the potential to mess up the timeline—too many risks, if you ask me.",
+    "Oh, absolutely! I've already visited the future and brought back a souvenir. But, shh, it's a secret. Can't disrupt the space-time continuum!"
+  ],
+  "Reactions": [
+    "That sounds amazing! I'd love to fix a few past blunders. Time travel could be the answer to so many 'what if' scenarios.",
+    "True, the risks are daunting. It's hard to wrap my head around the idea without causing some major chaos in the timeline.",
+    "Really? A time-traveler in our midst! I won't tell if you share a glimpse of that futuristic souvenir. Time travel with a sense of humor, I like it!"
+  ],
+  "Greatness":  [1,0,2] 
+},
+{
+  "Dialogue": "If you could have any superpower, what would it be?",
+  "Options": [
+    "The ability to refill things instantly! No more empty coffee cups or low battery anxiety.",
+    "Invisibility, but only when I need to avoid awkward social situations. Stealth mode, activate!",
+    "The power to speak fluent animal languages. Finally, I'd know what my cat is plotting."
+  ],
+  "Reactions": [
+    "Refilling things instantly? Genius! Goodbye, coffee woes! This is the superhero we all need.",
+    "Invisibility for social escapes? A bit sneaky, but hey, who wouldn't want an awkwardness-free life?",
+    "Speaking animal languages? Really? That's just absurd. What's next, negotiating with squirrels for world peace?"
+  ],
+  "Greatness":  [1,2,0] 
+},
+{
+  "Dialogue": "What's the most memorable book you've ever read?",
+  "Options": [
+    "Green Eggs and Ham by Dr. Seuss. A culinary masterpiece that forever changed my views on breakfast.",
+    "The dictionary. Because who needs plot twists when you have an alphabetical adventure?",
+    "A choose-your-own-adventure book with only one page. Spoiler alert: You turn the page and it says 'The End.'"
+  ],
+  "Reactions": [
+    "Green Eggs and Ham? A literary classic! Dr. Seuss knew how to make breakfast revolutionary.",
+    "The dictionary as a memorable read? Now that's a unique perspective! Who needs conventional plots anyway?",
+    "A one-page choose-your-own-adventure? That's hilariously lazy and brilliant. A masterpiece in minimalism!"
+  ],
+  "Greatness":  [1,0,2] 
+},
+{
+  "Dialogue": "What's your go-to karaoke song?",
+  "Options": [
+     "I confidently attempt 'I Will Survive' by Gloria Gaynor, even though my vocal survival is questionable.",
+    "I choose 'Never Gonna Give You Up' by Rick Astley. Who can resist a classic rickroll at karaoke?",
+    "My go-to is 'Baby Shark.' It's the ultimate test of karaoke endurance and crowd tolerance."
+  ],
+  "Reactions": [
+    "Attempting 'I Will Survive'? That's brave! The crowd might not survive your rendition, but it's all in good fun!",
+    "Choosing 'Never Gonna Give You Up'? Classic rickroll move! A playful choice to keep the karaoke vibes light.",
+    "'Baby Shark'? Now that's a bold move. The crowd may question your sanity, but hey, it's all about having fun!"
+  ],
+  "Greatness":  [1,2,0] 
+},
+{
+  "Dialogue": "Do you believe in luck, or do you think we create our own destiny?",
+  "Options": [
+    "Luck is just cosmic Wi-Fi. I'm waiting for a strong signal to download my destiny.",
+    "I create my own destiny, but I also keep a lucky charm – a rubber duck for added flair.",
+    "Luck, destiny, or a really good sandwich? I'm not sure, but I'll take the sandwich."
+  ],
+  "Reactions": [
+    "Cosmic Wi-Fi for destiny downloads? Hilarious! Hope you get a full bar for an epic destiny!",
+    "Creating your destiny with a rubber duck? Now that's style! A quirky yet effective approach.",
+    "A good sandwich as the key to life? Well, it might not solve destiny debates, but it's a tasty philosophy!"
+  ],
+  "Greatness":  [2,1,0] 
+},
+{
+  "Dialogue": "If you could have dinner with any historical figure, who would it be?",
+  "Options": [
+    "I'd dine with Shakespeare to settle the eternal debate: Did he really write all those plays, or was it a team of highly dramatic squirrels?",
+    "Dinner with Cleopatra, because I've always wondered if she really made those extravagant entrances on a fancy barge or just took a sensible boat.",
+    "I'd choose Einstein, hoping he'd explain the theory of relativity through interpretive dance. It's time for physics to get groovy."
+  ],
+  "Reactions": [
+    "Dining with Shakespeare and the dramatic squirrels? That's a legendary dinner party! The Bard and the squirrels would surely have some tales to tell.",
+    "Curious about Cleopatra's barge entrances? A humorous take on ancient history! Let's hope she has a good sense of humor too.",
+    "Einstein explaining relativity through dance? Now that's a cosmic choreography I'd pay to watch! A fusion of science and art, truly genius."
+  ],
+  "Greatness":  [2,1,0] 
+},
+{
+  "Dialogue": "If you could be any fictional character for a day, who would you choose?",
+  "Options": [
+    "Being Sherlock Holmes for a day would be an intriguing experience.",
+    "I'm not really into fictional characters. Real-life is interesting enough.",
+    "I haven't thought about it. Fictional characters aren't my focus."
+  ],
+  "Reactions": [
+    "Sherlock Holmes is a brilliant choice! Solving mysteries would be fun.",
+    "Fair point. Real-life has its own set of adventures.",
+    "True, fictional characters are just a form of entertainment. Anything else on your mind?"
+  ],
+  "Greatness":  [2,0,1] 
+},
+{
+    "Dialogue": "This reception area looks fantastic! Who's responsible for the design?",
+    "Options": [
+        "Oh, we let the office plants decide. They have a keen eye for feng shui and a strong preference for natural lighting.",
+        "Design? It was a collaborative effort between our office cat and a magic eight ball. Surprisingly, it turned out purr-fect!",
+        "The design is the result of a fierce competition between the furniture. The chairs won, and now they demand to be seated first."
+    ],
+    "Reactions": [
+        "Letting office plants handle design? Ingenious! They must have excellent taste in foliage and aesthetics.",
+        "A collaboration with an office cat and a magic eight ball? That's a whimsical approach! No wonder it's turned out purr-fectly quirky.",
+        "A furniture competition with chairs as the victors? Talk about a power play! Well, they do seem to have the best seat in the house now."
+    ],
+  "Greatness":  [0,1,2] 
+},
+{
+    "Dialogue": "I think I left my umbrella here earlier. Have you seen it?",
+    "Options": [
+        "Your umbrella? It joined a secret society of lost socks. They're planning the ultimate escape from laundry rooms worldwide.",
+        "Umbrella? Oh, it's probably off attending a high-profile meeting with Mary Poppins. Discussing cloud strategy, you know?",
+        "Left your umbrella? Don't worry; it's enrolled in a self-defense class. Soon, it'll be the Chuck Norris of rain protection."
+    ],
+    "Reactions": [
+        "Your umbrella in a secret society with lost socks? Hilarious! The laundry room conspiracies are getting out of hand!",
+        "Meeting with Mary Poppins for cloud strategy? Classic! I hope your umbrella brings back some tips for perfect landings.",
+        "Enrolled in a self-defense class? That umbrella is on the path to becoming a weather warrior! Safety first, even for accessories."
+    ],
+  "Greatness":  [0,1,2] 
+},
+{
+    "Dialogue": "I had an appointment, and I've been waiting for 30 minutes! What's going on?",
+    "Options": [
+        "Time here is like a cozy hammock — it swings back and forth, sometimes taking unexpected naps. Your appointment might be in a catnap right now!",
+        "Oh, we upgraded our clocks to 'Sloth Standard Time.' It's a bit slow, but it gives us more time to appreciate the little things. Like waiting.",
+        "Time? That's just a social construct. We're on 'Quantum Appointment Time,' where waiting is both 30 minutes and an eternity simultaneously."
+    ],
+    "Reactions": [
+        "A cozy hammock for time? That's a whimsical view! Maybe your appointment is just catching up on a quick nap before the meeting.",
+        "'Sloth Standard Time'? Brilliant! It might be slow, but at least it gives us a chance to savor the anticipation of your appointment.",
+        "'Quantum Appointment Time'? Now that's a mind-bender! Waiting becomes a philosophical journey in our uniquely warped time zone."
+    ],
+  "Greatness":  [2,1,0] 
+},
+{
+    "Dialogue": "I made a reservation, and now you're telling me it's not in your system? This is unacceptable!",
+    "Options": [
+        "Ah, the invisible reservation! It's an exclusive package. Only the most adventurous diners can experience a meal that's not on the menu.",
+        "Our reservation system? It's a bit like a ninja—silent and mysterious. Your reservation is probably in stealth mode, waiting to surprise you.",
+        "Reservation glitch? Blame it on the mischievous office gremlins. They love rearranging things, especially when it comes to schedules."
+    ],
+    "Reactions": [
+        "The invisible reservation? A dining adventure! It's like a secret menu but for reservations. The unexpected is part of the experience!",
+        "A ninja reservation system? Sneaky! Your reservation is probably practicing its stealth moves before making a grand entrance.",
+        "Office gremlins at it again? Those little troublemakers! They must have a peculiar sense of humor, rearranging reservations for kicks."
+    ],
+  "Greatness":  [1,2,0] 
+},
+{
+    "Dialogue": "I've been waiting for ages, and the service here is terrible! What's your excuse?",
+    "Options": [
+       "Ah, our time machine malfunctioned. We accidentally sent your order to the medieval era. Your feast should be arriving shortly, horse and all!",
+       "Service issues? Blame it on the invisible snails we hired as waitstaff. They're a bit slow, but their slime trail adds a unique touch to the ambiance.",
+       "Terrible service? It's our avant-garde approach. We're testing the limits of patience, turning dining into an extreme sport. Bravo for enduring!"
+    ],
+    "Reactions": [
+        "Time machine mishap? Medieval feast incoming! A humorous spin on delays, your order's just on a historical detour.",
+        "Invisible snails as waitstaff? Slow but artsy! The slime trail must be our avant-garde attempt at abstract table decoration.",
+        "Avant-garde service as an extreme sport? Bravo indeed! Your patience is reaching Olympic levels. We may need to introduce a medal ceremony!"
+    ],
+  "Greatness":  [2,1,0] 
+},
+{
+    "Dialogue": "I just got my bill, and there are charges I didn't authorize! This is unacceptable!",
+      "Options": [
+        "Ah, those unauthorized charges? That's our 'Creativity Fee.' We thought your dining experience needed an artistic touch, so we added a dash of surprise.",
+        "Unauthorized charges? Blame it on our mischievous resident ghost chef. He insists on spicing things up, even the bills!",
+        "Unacceptable charges? It's the 'Gravity Tax.' You know, gravity makes everything fall, including extra charges on your bill."
+      ],
+      "Reactions": [
+        "The 'Creativity Fee'? A culinary masterpiece! Who knew dining could be so avant-garde? Your bill is a work of art!",
+        "Ghost chef spicing things up? Classic haunting behavior! Your bill may be supernatural, but it adds a ghostly flair to the dining experience.",
+        "'Gravity Tax'? Brilliant! It's a universal law – what goes up on the bill must come down. A humorous take on unexpected charges!"
+      ],
+  "Greatness":  [1,1,0] 
+},
+{
+    "Dialogue": "Your facilities are not up to standard. I expected better quality for the price I'm paying!",
+      "Options": [
+        "Ah, our facilities are on a rebellious journey. They've embraced the 'Quirk Over Quality' movement. It's the avant-garde approach to infrastructure!",
+        "Facilities not up to par? Blame it on the office geese. They're our amateur architects, and they have a fondness for feathered aesthetics.",
+        "Expected better quality? Our facilities are in a self-improvement seminar. They'll come out as top-tier facilities in the next life cycle!"
+      ],
+      "Reactions": [
+        "'Quirk Over Quality'? It's a bold move! Our facilities are pioneers in the avant-garde infrastructure revolution. A masterpiece in quirkiness!",
+        "Office geese as architects? Feathered aesthetics at its finest! Your critique may inspire them to build a nest of improvement.",
+        "Self-improvement seminar for facilities? That's dedication! Your feedback will be the catalyst for their transformation into the pinnacle of quality!"
+      ],
+  "Greatness":  [1,1,2] 
+},
+{
+    "Dialogue": "I reserved a space, and now you're telling me it's overbooked? This is ridiculous!",
+      "Options": [
+        "Overbooked? That's our 'Space Shuffle' program. We're testing the effects of zero gravity on reservations. It's the ultimate cosmic dining experience!",
+        "Overbooked space? Blame it on the intergalactic party planners. They're notorious for throwing celestial soirées, and your reservation got caught in the cosmic crowd.",
+        "Overbooked? It's our 'Black Hole Special.' Your reservation may be lost in a temporal vortex, but think of it as a dining adventure through spacetime!"
+      ],
+      "Reactions": [
+        "'Space Shuffle' program? Cosmic dining! Your reservation is on an interstellar journey, experiencing the wonders of zero gravity. Bon appétit in space!",
+        "Intergalactic party planners? They do love their cosmic celebrations. Your reservation is amidst a star-studded event, even if it's unintentional.",
+        "'Black Hole Special'? A dining adventure through spacetime! Your reservation might be in a parallel universe, but it's a unique and groundbreaking experience!"
+      ],
+  "Greatness":  [1,1,1] 
+},
+{
+    "Dialogue": "Your website is a mess! I can't find anything. Fix it!",
+      "Options": [
+        "Ah, you've discovered our 'Digital Treasure Hunt' feature! It's like an online scavenger hunt. Your prize? The satisfaction of finally finding what you're looking for.",
+        "Website navigation issues? Blame it on the mischievous coding gnomes. They love rearranging bits and bytes just to keep things interesting.",
+        "Can't find anything? That's our 'Random Surprise' feature. It's like a digital surprise party — you never know what you'll stumble upon next!"
+      ],
+      "Reactions": [
+        "'Digital Treasure Hunt' feature? The thrill of the hunt! Your frustration is just a prelude to the sweet victory of discovering hidden gems on our website.",
+        "Mischievous coding gnomes? They're notorious for their byte antics. Your feedback might convince them to take a break from their virtual mischief.",
+        "'Random Surprise' feature? A digital surprise party! Your confusion is just the prelude to unexpected delights on our whimsical website."
+      ],
+  "Greatness":  [2,1,0] 
+},
+{
+    "Dialogue": "I have a riddle for you: What has keys but can't open locks?",
+    "Options": [
+        "Hmm, an interesting riddle! Let me think... Is it a piano?",
+        "Ah, a riddle! My guess is a typewriter. Am I close?",
+        "I enjoy a good riddle! My answer is a computer keyboard. Am I right?"
+    ],
+    "Reactions": [
+        "Great riddle! The answer is indeed a piano. You got me thinking!",
+        "You got me there! Typewriter makes sense. Clever riddle!",
+        "Spot on! A computer keyboard fits the description perfectly. Well played!"
+    ],
+  "Greatness":  [2,1,1] 
+},
+    {
+        "Dialogue": "Can you solve this complex math problem: 4x^2 + 3x + 1 = 0?",
+        "Options": [
+            "... this looks like a...umm... rational equation?! right?.",
+            "Sorry bud, if I was good at math I would not be doing this shit!",
+            "Interesting math problem! I'll use the quadratic formula to crack it. Give me a moment."
+        ],
+        "Reactions": [
+            "This is the most idiotic line of answering I've ever heard",
+            "umm... apologies.",
+            "You nailed it! The quadratic formula also leads to the solution x = -1. Impressive!"
+        ],
+      "Greatness":  [0,1,2] 
+    },
+    {
+        "Dialogue": "I have a puzzle for you: What comes once in a minute, twice in a moment, but never in a thousand years?",
+          "Options": [
+            "The letter 'M'! It's the sneakiest letter, making surprise appearances in the blink of a minute and the snap of a moment.",
+            "A procrastinator's motivation! It shows up once in a minute, twice in a moment, but never when you need it for a thousand years of productivity.",
+            "A ninja on a coffee break! It comes once in a minute, twice in a moment, and vanishes without a trace for the next thousand years."
+          ],
+          "Reactions": [
+            "The letter 'M'! Sneaky and clever! Your brain teaser has been outwitted by the elusive and mysterious letter.",
+            "Procrastinator's motivation? Hilarious! The struggle of finding motivation resonates, even in the whimsical world of riddles.",
+            "A ninja on a coffee break? Brilliant! Your puzzle has been infiltrated by a stealthy and caffeine-fueled answer."
+          ],
+      "Greatness":  [2,1,1] 
+    },
+    {
+        "Dialogue": "If a tree falls in a forest and no one is around to hear it, does it make a sound?",
+          "Options": [
+            "It plays a tree anthem in the forest. The sound is so exclusive that only the woodland creatures and mystical squirrels RSVP.",
+            "The tree hires a personal sound engineer. It's all about maintaining a good reputation in the forest's annual 'Sound Quality Awards.'",
+            "The tree joins a philosophical debate club. It argues that sound is subjective, and if no one hears it, it technically didn't happen."
+          ],
+          "Reactions": [
+            "A tree anthem? Exclusive woodland concert! Your philosophical question has turned into a whimsical woodland event.",
+            "A personal sound engineer? High standards in the forest! The tree is serious about winning the 'Sound Quality Awards.'",
+            "Philosophical debate club? The tree is a philosopher at heart! Your question sparked a deep and existential discussion in the forest."
+          ],
+      "Greatness":  [2,1,1] 
+    },
+    {
+        "Dialogue": "I'm new in town and trying to find the local museum. Can you give me directions?",
+          "Options": [
+            "Sure, take a left at the giant inflatable rubber ducky. If you reach the pirate penguin parade, you've gone too far.",
+            "Follow the trail of lost tourists. They usually end up at the museum eventually. It's like a town-wide treasure hunt!",
+            "To find the museum, just look for the building shaped like a confused giraffe. It's the only one trying to figure out its purpose."
+          ],
+          "Reactions": [
+            "Left at the inflatable rubber ducky? Hilarious! Your museum adventure involves whimsical landmarks. Enjoy the pirate penguins!",
+            "Trail of lost tourists? It's a town tradition! Your journey to the museum becomes a fun treasure hunt for newcomers.",
+            "Building shaped like a confused giraffe? Brilliant! Your museum quest includes a touch of architectural existentialism. A unique wayfinding experience!"
+          ],
+      "Greatness":  [2,1,2] 
+    },
+    {
+        "Dialogue": "I'm lost in this building. Can you help me find the conference room?",
+          "Options": [
+            "Sure, follow the trail of abandoned coffee cups. It leads directly to the conference room, the sacred gathering place of caffeine enthusiasts.",
+            "Find the conference room by listening for the sound of heated debates. It's like a live podcast but with more PowerPoint slides.",
+            "The secret is to walk confidently and pretend you're late for a meeting. The conference room will magically appear, hoping to join the action."
+          ],
+          "Reactions": [
+            "Trail of abandoned coffee cups? Ingenious! Your journey to the conference room involves navigating the remnants of caffeine-fueled discussions.",
+            "Sound of heated debates? A live podcast vibe! Your search for the conference room becomes an auditory adventure in the world of corporate discussions.",
+            "Walking confidently and pretending to be late? Clever! The conference room senses urgency and reveals itself, eager to be part of the chaos."
+          ],
+      "Greatness":  [2,1,1] 
+    },
+    {
+        "Dialogue": "I can't remember where I parked my car. Can you help me find it?",
+          "Options": [
+            "Oh, sure! Just look for the only car in the parking lot wearing a camouflage cloak. It's playing hide-and-seek with you.",
+            "Absolutely! Close your eyes, spin around three times, and then point randomly. That's the general direction of where you probably didn't park.",
+            "Of course! Yell 'Marco!' and wait for your car to respond with a faint 'Polo!' It's a foolproof method for locating lost vehicles."
+          ],
+          "Reactions": [
+            "Camouflage cloak? Brilliant! Your car is a master of disguise, adding a touch of mystery to your parking quest. Good luck finding the hidden chariot!",
+            "Spin around and point randomly? Solid strategy! Because who needs logic when searching for a parked car? Embrace the chaos!",
+            "'Marco Polo' method? Clever! Your car is now your playful companion in the grand game of parking hide-and-seek. May the shouts be ever in your favor!"
+          ],
+      "Greatness":  [1,1,2] 
+    },
+         {
+             "Dialogue": "I need to catch a bus, but I'm not sure which stop to use. Can you help me with directions?",
+               "Options": [
+                 "Absolutely! Just wait for a bus with a disco ball on top. It's the party bus, and it stops wherever the rhythm takes it.",
+                 "Sure thing! Find the stop with the most philosophical pigeons. They're great at pondering life's big questions and might guide you to the right bus stop.",
+                 "Of course! Look for the bus stop with the fortune-telling vending machine. Insert a coin, and it will reveal the mystical bus stop of destiny."
+               ],
+               "Reactions": [
+                 "Disco ball party bus? Fantastic! Your journey involves groovy transportation with a side of spontaneous dance moves. All aboard the rhythm express!",
+                 "Philosophical pigeons? Wise advisors! Your quest for the right bus stop transforms into a deep conversation with the avian sages of the city.",
+                 "Fortune-telling vending machine? Intriguing! Your path is guided by the whims of destiny, with a touch of mystical revelations from a coin-operated oracle."
+               ],
+           "Greatness":  [1,0,2] 
+         },
+         {
+             "Dialogue": "I just arrived at the hotel, but I can't find the check-in counter. Can you guide me?",
+               "Options": [
+                 "Absolutely! Look for the magical rotating door. It's like a portal to the front desk, but beware of accidentally entering the wizard's lounge.",
+                 "Sure thing! Follow the scent of freshly printed WiFi passwords. The check-in counter is where the aromatic paper trail leads.",
+                 "Of course! Find the lobby penguin. It waddles in the direction of superior customer service, or maybe it's just searching for its own cozy igloo."
+               ],
+               "Reactions": [
+                 "Magical rotating door? Beware the wizard's lounge! Your journey involves a touch of enchantment, but watch out for unexpected magical detours.",
+                 "Scent of WiFi passwords? Aromatic navigation! Your quest for the check-in counter transforms into a scented paper trail leading to modern conveniences.",
+                 "Lobby penguin guide? Quirky and charming! Your hotel exploration gains a penguin companion, adding a touch of Antarctic elegance to your check-in adventure."
+               ],
+           "Greatness":  [0,0,1] 
+         },
+         {
+             "Dialogue": "I heard there's a swimming pool on the roof. Is that true?",
+               "Options": [
+                 "Absolutely! It's our state-of-the-art rooftop aquarium. Dive in, and you might make friends with the sophisticated rooftop dolphins.",
+                 "Oh, indeed! The rooftop pool is also a time machine. Swim a few laps, and you might find yourself in a different era, wearing retro swimwear.",
+                 "Of course! The rooftop pool is a portal to Atlantis. Swim deep enough, and you might discover sunken treasures and underwater room service."
+               ],
+               "Reactions": [
+                 "Rooftop aquarium with dolphins? Extravagant! Your anticipation for a rooftop pool transforms into an underwater adventure with sophisticated companions.",
+                 "Time-traveling rooftop pool? Fascinating! Your swim becomes a journey through the ages, with each lap taking you to a different era of retro chic.",
+                 "Portal to Atlantis? Mythical! Your rooftop pool experience evolves into a quest for sunken treasures and the secrets of underwater room service."
+               ],
+           "Greatness":  [1,1,2] 
+         },
+         {
+             "Dialogue": "¿Dónde está el restaurante?",
+             "Options": [
+                 "El restaurante está en el segundo piso, a la izquierda. Puede seguir las señales para llegar allí.",
+                 "I'm sorry, I don't speak Spanish. Could you please repeat the question in English?",
+                 "¿Busca el restaurante? Puede tomar el ascensor hasta el tercer piso y girar a la derecha. Señales? What's that?"
+             ],
+             "Reactions": [
+                 "Gracias por la información. Seguiré las señales para encontrar el restaurante.",
+                 "Anyone talk Spanish? Esto no bueno for foreign guest, por love of God!",
+                 "How dare you? Mi madre was saint! ¿Señales? That not right, pero gracias for tu ayuda anyway."
+             ],
+           "Greatness":  [1,1,0] 
+         }
+]
+}
